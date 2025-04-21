@@ -15,7 +15,7 @@
 ## Introduction/Background/Motivation
 
   * Programming supports Analytics but Analytics, fundamentally, supports Decison-making
-    * Analytics or Automation?: [Seven Approaches to Decision Making (see slide #4)]<https://ocw.smithw.org/mgt360/hbr-davenport-better-decisions.pptx>
+    * Analytics or Automation?: [Seven Approaches to Decision Making (see slide #4)](https://ocw.smithw.org/mgt360/hbr-davenport-better-decisions.pptx)
 
   * (Horizontal) Workflow
     * Where in the data workflow are you (and your team) working?: [Disney Workflow example]<images/analytics-disney.pdf>
