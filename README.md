@@ -5,9 +5,9 @@
 <https://github.com/wsphd/csun-hpc/>
 
 **"High-Performance Computing (Resources and Capabilities)**\
-**California State University, Northirdge (CSUN)**
+**California State University, Northridge (CSUN)**
 
-**Friday, April 11, 2025**\
+**Thursday, May 1, 2025**\
 **CSUN Faculty Retreat - Odyssey Restaurant**
 
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
