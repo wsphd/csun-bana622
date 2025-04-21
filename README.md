@@ -23,6 +23,13 @@
   * (Vertical) Stack
     * Where in the technology stack are you (and your team) working?: [Analytics Stack example]<images/analytics-stack.pdf>
 
+  * Even with Programming, remember your 'First Principles'
+    * _Architecture_: Enterprise, Standards, Regulatory, Ethics, Funding, Strategy, etc.
+    * _Engineering_: Safety, security, sustainability, reliability, interoperability, maintainability, durability, scalability, performance, etc.
+    * _Construction_: Agile, Development Effectiveness, Development Productivity, etc.
+
+
+
   * How do you learn best?
     * Books, Classes, Data camps, User Groups/Meetups, Conferences, Workshops, YouTube, podcasts
     * Some contemporary tools are highly interactive: [Google Colab]<https://colab.research.google.com/>
@@ -102,9 +109,9 @@
 ## Trade-offs: Verbose Documentation (large and explicit) vs. Terse Documentation (small and implicit)
 
   * Tensions
-    * It takes time, energy, motivation, and resources.
-    * It has to be part of the culture you create, craft, and nurture.
-    * It can be done by specialists but it is best done by the individual herself/himself.
+    * It takes time, energy, resources, and perhaps most important, motivation
+    * It has to be part of the organization/engineering culture you create, craft, and nurture
+    * It can be done by specialists but it is best done by the individual herself/himself
 
   * Transitions
     * Extensive In-line documentation, especially at the function level, can be done [e.g., ROXYGEN2]<https://roxygen2.r-lib.org/>
