@@ -15,20 +15,18 @@
 ## Introduction/Background/Motivation
 
   * Programming supports Analytics but Analytics, fundamentally, supports Decison-making
-    * Analytics or Automation?: [Seven Approaches to Decision Making (see slide #4)](https://ocw.smithw.org/mgt360/hbr-davenport-better-decisions.pptx)
+    * Analytics or Automation?: [Seven Approaches to Decision Making (.pptx) (see slide #4)](https://ocw.smithw.org/mgt360/hbr-davenport-better-decisions.pptx)
 
   * (Horizontal) Workflow
-    * Where in the data workflow are you (and your team) working?: [Disney Workflow example]<images/analytics-disney.pdf>
+    * Where in the data workflow are you (and your team) working?: [Disney Workflow example](images/analytics-disney.pdf)
 
   * (Vertical) Stack
-    * Where in the technology stack are you (and your team) working?: [Analytics Stack example]<images/analytics-stack.pdf>
+    * Where in the technology stack are you (and your team) working?: [Analytics Stack example](images/analytics-stack.pdf)
 
   * Even with Programming, remember your 'First Principles'
     * _Architecture_: Enterprise, Standards, Regulatory, Ethics, Funding, Strategy, etc.
     * _Engineering_: Safety, security, sustainability, reliability, interoperability, maintainability, durability, scalability, performance, etc.
     * _Construction_: Agile, Development Effectiveness, Development Productivity, etc.
-
-
 
   * How do you learn best?
     * Books, Classes, Data camps, User Groups/Meetups, Conferences, Workshops, YouTube, podcasts
@@ -43,8 +41,8 @@
     * What is important? Reproducibility?...Scalability...Interoperability?
 
   * Transitions (Should You Learn to Code?)
-    * : Pro (yes): [UK programming requirement]<https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study>
-    * : Con (no): [AI-assisted programming (GitHub Co-pilot)]<https://github.com/features/copilot>
+    * : Pro (yes): [UK programming requirement](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
+    * : Con (no): [AI-assisted programming (GitHub Co-pilot)](https://github.com/features/copilot)
 
 
 ## Trade-offs: Commerical Off-the=Shelf (COTS) vs. Free/Open Source Software (FOSS)
@@ -54,7 +52,7 @@
     * R, Python, Julia, Observable
 
   * Transitions
-    * [Open Source Adoption in the Pharmaceutical Industry]<https://www.r-bloggers.com/2025/02/open-source-adoption-in-pharma-opportunities-and-challenges/>
+    * [Open Source Adoption in the Pharmaceutical Industry](https://www.r-bloggers.com/2025/02/open-source-adoption-in-pharma-opportunities-and-challenges/)
 
 
 ## Trade-offs: Relatively Platform-dependent vs. Relatively Platform-independent
@@ -73,12 +71,13 @@
 
   * Tensions
     * R, Python, Julia
-      * With R, users often use [R/Studio]<https://www.markdownguide.org/getting-started/>
-      * With Python, users often use [Spyder]<https://www.spyder-ide.org/>, [PyCharm]<https://www.jetbrains.com/pycharm/features/>
-      * Many Julia users use [Visual Studio (VS) Code]<https://code.visualstudio.com/>
+      * With R, users often use [R/Studio](https://www.markdownguide.org/getting-started/)
+      * With Python, users often use [Spyder](https://www.spyder-ide.org/), [PyCharm](https://www.jetbrains.com/pycharm/features/)
+      * Many Julia users use [Visual Studio (VS) Code](https://code.visualstudio.com/)
+      * Some modern software is written using decades-old editors [e.g., VI](https://en.wikipedia.org/wiki/Vi_(text_editor))
 
   * Transitions
-    * Some R and Python users are moving to [Positron]<https://positron.posit.co/start.html>
+    * Some R and Python users are moving to [Positron](https://positron.posit.co/start.html)
 
 
 ## Trade-offs: Need Application Programming Interfaces (APIs) or Microservices?
@@ -88,7 +87,7 @@
     * In fact, there is an entire field devoted to it: Data Engineering
 
   * Transitions
-    * REST is common but SPARQL is slowly replacing it [GRAPHQL]<https://en.wikipedia.org/wiki/GraphQL>
+    * REST is common but SPARQL is slowly replacing it [GRAPHQL](https://en.wikipedia.org/wiki/GraphQL)
 
 
 ## Trade-offs: Databases vs. (binary) Files vs. (human-readable) Flat Files
@@ -102,8 +101,8 @@
     * some industries have highly unique file formats (some are decades old)
 
   * Transitions
-    * small files: CSV files are still common but JSON files are slowly replacing them [JSON]<https://en.wikipedia.org/wiki/JSON>
-    * bit files: CSV files are still common but Parquet files are slowly replacing them [Parquet]<https://parquet.apache.org/>
+    * small files: CSV files are still common but JSON files are slowly replacing them [JSON](https://en.wikipedia.org/wiki/JSON)
+    * bit files: CSV files are still common but Parquet files are slowly replacing them [Parquet](https://parquet.apache.org/)
 
 
 ## Trade-offs: Verbose Documentation (large and explicit) vs. Terse Documentation (small and implicit)
@@ -114,6 +113,6 @@
     * It can be done by specialists but it is best done by the individual herself/himself
 
   * Transitions
-    * Extensive In-line documentation, especially at the function level, can be done [e.g., ROXYGEN2]<https://roxygen2.r-lib.org/>
-    * Extensive out-of-code documentation can be done elegantly and simply [e.g., markdown]<https://www.markdownguide.org/getting-started/>
+    * Extensive In-line documentation, especially at the function level, can be done [e.g., ROXYGEN2](https://roxygen2.r-lib.org/)
+    * Extensive out-of-code documentation can be done elegantly and simply [e.g., markdown](https://www.markdownguide.org/getting-started/)
 
