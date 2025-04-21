@@ -7,7 +7,7 @@
 **CSUN BANA 622 (Programming for Business Analytics)**\
 **Trade-offs, Tensions, and Transitions**
 
-**Thursday, May 1, 2025**\
+**Thursday, May 1, 2025**
 
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
 
