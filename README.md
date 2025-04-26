@@ -67,6 +67,30 @@
     *
 
 
+## Trade-offs: R vs. Python
+
+  * Tensions
+    * R
+      * more academic, more statistical programming
+      * more domain specific
+    * Python
+      * more industry, more general purpose programming
+      * more domain general
+
+  * Transitions
+    * learn and use both (e.g., rpy, reticulate) for coding and output/documentation (e.g., markdown, quarto)
+
+
+## Trade-offs: Statistical Learning vs. Software Engineering
+
+  * Tensions
+    * There are always more statistical techniques to learn (even far beyond college)
+    * There are always better ways to create, test, deploy, and maintain software
+
+  * Transitions
+    * This is a partly an individual career decision, partly an organization decision, and partly an industry decision
+
+
 ## Trade-offs: Text Editor (with or without some code help) v. Integrated Development Environments (IDE)
 
   * Tensions
